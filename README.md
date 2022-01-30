@@ -2,7 +2,8 @@
 ***School_District_Analysis***
 
 **Purpose of the analysis** :
-Tthe main purpose of the analysis is to help Maria chief data scientist to anaylis variety of data from city schools about perormance trends to get an insight to 
+
+The main purpose of the analysis is to help Maria chief data scientist to anaylze variety of data from city schools about perormance trends to get an insight to 
 and reprting and presentation of the data for student funding and performance , my task is to aggregate the data and showcase trends in schools performance . This
 will assist the school board to make decisions regarding budgets allotments and prioritizing while taking in consideration the sensitivity of the data with the FERBA
 family educational rights privacy act that protects the privacy of the student .

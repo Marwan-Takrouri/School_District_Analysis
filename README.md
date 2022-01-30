@@ -19,9 +19,9 @@ family educational rights privacy act that protects the privacy of the student .
 * Passing Reading Percentages 
 * Overall Passing Percentages 
 
-**looking at the over all data shows that :**
+**Looking at the over all data shows that :**
 
-**total schools were 15 and the metrics as below: **
+**Total schools were 15 and the metrics as below:**
 
 * Total Students 39170
 * Total Budget 24,649,428.00 $

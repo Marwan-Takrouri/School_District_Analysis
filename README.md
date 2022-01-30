@@ -59,7 +59,7 @@ family educational rights privacy act that protects the privacy of the student .
 
 * chartered :87%
 * district : 54%
-* overa all passing scores 
+* overall passing scores 
 
 
 

@@ -31,7 +31,7 @@ family educational rights privacy act that protects the privacy of the student .
 * Passing Reading Percentages 86%
 * Overall Passing Percentages 65% 
 
-**when we aggregate the data to see little deeper , data trends shows the below :**
+**When we aggregate the data to see little deeper , data trends shows the below :**
 
 **Top five schools are:**
 

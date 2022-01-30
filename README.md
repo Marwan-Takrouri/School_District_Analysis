@@ -41,7 +41,7 @@ family educational rights privacy act that protects the privacy of the student .
 * Wilson High School
 * Penda High School
   
-- There student totals are between high of 1635 and low of 962 and although thier budget spendings were higher of 1,319,574$ the precentage of overall passing was always 90%
+-There student totals are between high of 1635 and low of 962 and although thier budget spendings were higher of 1,319,574$ the precentage of overall passing was always 90%
 
 
 **The bottom five schools were as below :**
@@ -52,10 +52,10 @@ family educational rights privacy act that protects the privacy of the student .
 * Hernandez High School
 * Johnson High School
 
-- There student totals are between high of 4761 and low of 3999 and although thier budget spendings were higher of 3,094,$ the precentage of overall passing was always 50%
+-There student totals are between high of 4761 and low of 3999 and although thier budget spendings were higher of 3,094,$ the precentage of overall passing was always 50%
 
 
-- Considering running a percentages on high poplulation and a higher budgeted school investment should have turned a positive return on the bottom five schools .also looking into the size , and whether it is a district or chartered school shows that:
+-Considering running a percentages on high poplulation and a higher budgeted school investment should have turned a positive return on the bottom five schools .also looking into the size , and whether it is a district or chartered school shows that:
 
 * chartered :87%
 * district : 54%
